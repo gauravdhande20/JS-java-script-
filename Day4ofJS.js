@@ -35,3 +35,16 @@ const fun1=(x)=>{
 fun1(34)
 fun1(314)
 fun1(14)
+
+
+// output:
+
+// let's create first function 
+// hey Gaurav how are you
+// hey Gaurav can i help you
+// the sum of a and b is:  17
+// the sum of a and b is:  12
+// the sum of a and b is:  18
+// the number is :  34
+// the number is :  314
+// the number is :  14
