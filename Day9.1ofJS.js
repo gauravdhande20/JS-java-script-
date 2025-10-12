@@ -50,3 +50,5 @@ console.log(str3 + str5); // it will concatenate the number and string
 // 15
 // hello5
 // 535
+// hello i am javascript
+
