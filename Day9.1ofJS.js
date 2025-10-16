@@ -12,7 +12,7 @@ console.log(typeof num2);
 
 
 // large or small number can be written in exponent form
-let num3 = 23e5;
+let num3 = 23e5; 
 let num4 = 23e-5;
 console.log(num3);
 console.log(num4);
@@ -31,7 +31,7 @@ console.log(num6);
 // 10000000000000000
 
 
-// floating point precision     
+// floating point precision     `````
 let num7 = 0.1 + 0.2; // it should be 0.3 but due to floating point precision it gives 0.30000000000000004
 console.log(num7);
 //   output: 0.30000000000000004
